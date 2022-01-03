@@ -1,0 +1,11 @@
+***** Simple machine learning programs using go language *****
+
+
+** golang_knn **
+
+This a simple classification algorithm on the most popular iris dataset 
+
+** clustering2.go **
+
+In this program I have tried to find the centroid of the 3 species groups.
+
